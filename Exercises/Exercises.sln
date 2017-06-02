@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Math", "Math", "{DEBAA760-0B4E-4DE5-9D81-C49D60F00CF0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays and Strings", "Arrays and Strings", "{70FD9263-657B-4158-8513-4705BC5A30EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAllUniqueCharacters", "AllUniqueCharacters\StringAllUniqueCharacters.csproj", "{160402F5-9A12-48EE-B187-AC257D0C8AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +21,16 @@ Global
 		{F5AB8EDE-99EB-43A3-A748-317296A36DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5AB8EDE-99EB-43A3-A748-317296A36DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5AB8EDE-99EB-43A3-A748-317296A36DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160402F5-9A12-48EE-B187-AC257D0C8AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160402F5-9A12-48EE-B187-AC257D0C8AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160402F5-9A12-48EE-B187-AC257D0C8AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160402F5-9A12-48EE-B187-AC257D0C8AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F5AB8EDE-99EB-43A3-A748-317296A36DF6} = {DEBAA760-0B4E-4DE5-9D81-C49D60F00CF0}
+		{160402F5-9A12-48EE-B187-AC257D0C8AE2} = {70FD9263-657B-4158-8513-4705BC5A30EF}
 	EndGlobalSection
 EndGlobal
